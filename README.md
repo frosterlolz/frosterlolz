@@ -1,6 +1,6 @@
 # Frosterlolz
 
-## Hey 👋, I'm [Mikhail Kotlyarov](https://github.com/iampavangandhi/)!
+## Hey 👋, I'm [Mikhail Kotlyarov](https://github.com/frosterlolz/)!
 
 ---
 
