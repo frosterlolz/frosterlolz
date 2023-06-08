@@ -8,7 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/frosterlolz)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/frosterlolz)
-[![](https://dcbadge.vercel.app/api/shield/439109349974081536)
+[![](https://dcbadge.vercel.app/api/shield/439109349974081536)](https://discordapp.com/users/439109349974081536)
 
 ### 🚀 Scores & Stats
 
