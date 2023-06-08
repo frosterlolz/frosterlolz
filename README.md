@@ -11,7 +11,7 @@
 [![](https://dcbadge.vercel.app/api/shield/439109349974081536?style=flat)](https://discordapp.com/users/439109349974081536)
 
 ### 🛠 Tech Stack
-[![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=flutter)](https://dart.dev/)&nbsp;
+[![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)](https://dart.dev/)&nbsp;
 [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)](https://flutter.dev/)&nbsp;
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)](https://developer.android.com/studio)&nbsp;
 [![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)](https://code.visualstudio.com/)&nbsp;
