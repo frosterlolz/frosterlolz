@@ -19,7 +19,7 @@
 
 ### 🚀 Scores & Stats
 
-[![Frosterlolz's Github Stats](https://github-readme-stats.vercel.app/api?username=frosterlolz&count_private=true&theme=default&show_icons=true)](https://github.com/frosterlolz)
+[![Frosterlolz's Github Stats](https://github-readme-stats.vercel.app/api?username=frosterlolz&count_private=true&theme=algolia&include_all_commits=true&show_icons=true)](https://github.com/frosterlolz)
 
 <!--
 **frosterlolz/frosterlolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
